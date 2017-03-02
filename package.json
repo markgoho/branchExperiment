@@ -1,0 +1,23 @@
+{
+  "name": "branch-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ng2-wp-api": "^3.0.0-beta2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markgoho/branchExperiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markgoho/branchExperiment/issues"
+  },
+  "homepage": "https://github.com/markgoho/branchExperiment#readme"
+}
